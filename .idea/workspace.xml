@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c628a14f-067b-4174-ad23-219d22a1da5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laba_Kap_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-    </list>
+    <list default="true" id="c628a14f-067b-4174-ad23-219d22a1da5a" name="Changes" comment="Готовая лабораторная работа у Капранова №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +51,24 @@
       <option name="presentableId" value="Default" />
       <updated>1695404825330</updated>
       <workItem from="1695404826368" duration="659000" />
-      <workItem from="1695460433249" duration="6130000" />
+      <workItem from="1695460433249" duration="6456000" />
     </task>
+    <task id="LOCAL-00001" summary="Готовая лабораторная работа у Капранова №1">
+      <option name="closed" value="true" />
+      <created>1695473312332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695473312332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Готовая лабораторная работа у Капранова №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готовая лабораторная работа у Капранова №1" />
   </component>
 </project>
